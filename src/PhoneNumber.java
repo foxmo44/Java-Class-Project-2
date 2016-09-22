@@ -17,11 +17,18 @@ public class PhoneNumber {
     String  strFourDigit;
     private Pattern patternNumber = Pattern.compile("[0-9]{3,4}");  //Used to parse the area code out of the number
 
-    public PhoneNumber()  //Default Constructor
+    /**
+     * Default Constructor
+     */
+    public PhoneNumber()
     {
         ParseNumber("???-???-????");    //Initialize member variables
     }
 
+    /**
+     * Phone number constructor that takes a string phone number as an input
+     * @param strFullNumber
+     */
     public PhoneNumber(String strFullNumber)
     {
         ParseNumber(strFullNumber);     //Parse the number and fill the member variables
@@ -64,25 +71,37 @@ public class PhoneNumber {
 
     }
 
-    //Return the string representing the number
+    /**
+     * Return the string representing the number
+     * @return returns the following format 999-999-8888
+     */
     public String toString()
     {
         return(strAreaCode + "-" + strThreeDigit + "-" + strFourDigit);
     }
 
-    //TODO: put in the html format
+    /**
+     * return a table row for the area code then the phone number (2 cells)
+     * @return
+     */
     public String toHtmlTableString()
     {
         return("<tr><td>" +strAreaCode + "</td>" + "<td>" + strThreeDigit + "-" + strFourDigit + "<\td><\tr>");
     }
 
-    //Return the area code
+
+    /**
+     * @return Return the area code
+     */
     public String GetAreaCode()
     {
         return(strAreaCode);
     }
 
-    //Return the 7 digit portion of the number
+
+    /**
+     * @return Return the 7 digit portion of the number
+     */
     public String GetPhoneNumber()
     {
         return(strThreeDigit + "-" + strFourDigit);
