@@ -1,65 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f86e46-0216-47ce-b5ad-8e2c50fa2b8e" name="Default" comment="continued">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jardir/Michael Fox Project2 160928.docx" afterPath="$PROJECT_DIR$/src/jardir/Michael Fox Project2 160928.docx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jardir/Project02Fox.jar" afterPath="$PROJECT_DIR$/src/jardir/Project02Fox.jar" />
+    <list default="true" id="c2f86e46-0216-47ce-b5ad-8e2c50fa2b8e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/AnchorTag.html" afterPath="$PROJECT_DIR$/docs/AnchorTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/DateTimeTag.html" afterPath="$PROJECT_DIR$/docs/DateTimeTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/HeadingTag.html" afterPath="$PROJECT_DIR$/docs/HeadingTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ItemTag.html" afterPath="$PROJECT_DIR$/docs/ItemTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ListTag.html" afterPath="$PROJECT_DIR$/docs/ListTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Page.html" afterPath="$PROJECT_DIR$/docs/Page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/ParagraphTag.html" afterPath="$PROJECT_DIR$/docs/ParagraphTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/PhoneList.html" afterPath="$PROJECT_DIR$/docs/PhoneList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/PhoneNumber.html" afterPath="$PROJECT_DIR$/docs/PhoneNumber.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Project02Fox.html" afterPath="$PROJECT_DIR$/docs/Project02Fox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Table.html" afterPath="$PROJECT_DIR$/docs/Table.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/TableHeaderTag.html" afterPath="$PROJECT_DIR$/docs/TableHeaderTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/TableRowTag.html" afterPath="$PROJECT_DIR$/docs/TableRowTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/Tag.html" afterPath="$PROJECT_DIR$/docs/Tag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/TitleTag.html" afterPath="$PROJECT_DIR$/docs/TitleTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-frame.html" afterPath="$PROJECT_DIR$/docs/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/allclasses-noframe.html" afterPath="$PROJECT_DIR$/docs/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/AnchorTag.html" afterPath="$PROJECT_DIR$/docs/class-use/AnchorTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/DateTimeTag.html" afterPath="$PROJECT_DIR$/docs/class-use/DateTimeTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/HeadingTag.html" afterPath="$PROJECT_DIR$/docs/class-use/HeadingTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/ItemTag.html" afterPath="$PROJECT_DIR$/docs/class-use/ItemTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/ListTag.html" afterPath="$PROJECT_DIR$/docs/class-use/ListTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/Page.html" afterPath="$PROJECT_DIR$/docs/class-use/Page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/ParagraphTag.html" afterPath="$PROJECT_DIR$/docs/class-use/ParagraphTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/PhoneList.html" afterPath="$PROJECT_DIR$/docs/class-use/PhoneList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/PhoneNumber.html" afterPath="$PROJECT_DIR$/docs/class-use/PhoneNumber.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/Project02Fox.html" afterPath="$PROJECT_DIR$/docs/class-use/Project02Fox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/Table.html" afterPath="$PROJECT_DIR$/docs/class-use/Table.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/TableHeaderTag.html" afterPath="$PROJECT_DIR$/docs/class-use/TableHeaderTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/TableRowTag.html" afterPath="$PROJECT_DIR$/docs/class-use/TableRowTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/Tag.html" afterPath="$PROJECT_DIR$/docs/class-use/Tag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/class-use/TitleTag.html" afterPath="$PROJECT_DIR$/docs/class-use/TitleTag.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/constant-values.html" afterPath="$PROJECT_DIR$/docs/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/deprecated-list.html" afterPath="$PROJECT_DIR$/docs/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/help-doc.html" afterPath="$PROJECT_DIR$/docs/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" afterPath="$PROJECT_DIR$/docs/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" afterPath="$PROJECT_DIR$/docs/index-files/index-10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-11.html" afterPath="$PROJECT_DIR$/docs/index-files/index-11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-12.html" afterPath="$PROJECT_DIR$/docs/index-files/index-12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" afterPath="$PROJECT_DIR$/docs/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" afterPath="$PROJECT_DIR$/docs/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" afterPath="$PROJECT_DIR$/docs/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" afterPath="$PROJECT_DIR$/docs/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" afterPath="$PROJECT_DIR$/docs/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" afterPath="$PROJECT_DIR$/docs/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" afterPath="$PROJECT_DIR$/docs/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index-files/index-9.html" afterPath="$PROJECT_DIR$/docs/index-files/index-9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/overview-tree.html" afterPath="$PROJECT_DIR$/docs/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/package-frame.html" afterPath="$PROJECT_DIR$/docs/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/package-summary.html" afterPath="$PROJECT_DIR$/docs/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/package-tree.html" afterPath="$PROJECT_DIR$/docs/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/package-use.html" afterPath="$PROJECT_DIR$/docs/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PhoneList.java" afterPath="$PROJECT_DIR$/src/PhoneList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jardir/Project02Data.html" afterPath="$PROJECT_DIR$/src/jardir/Project02Data.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ItemTag.java" afterPath="$PROJECT_DIR$/src/ItemTag.java" />
     </list>
     <ignored path="Project 2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Project02Fox.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Project02Fox.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Project02Fox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -89,6 +33,16 @@
                 <element signature="e#0#4122#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemTag.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ItemTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -242,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/TitleTag.java" />
         <option value="$PROJECT_DIR$/src/PhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/PhoneList.java" />
+        <option value="$PROJECT_DIR$/src/ItemTag.java" />
       </list>
     </option>
   </component>
@@ -665,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1474510835712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated the javadoc output along with the output for the project">
+      <created>1474512175830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1474512175830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -693,7 +655,6 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.48963732" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -705,6 +666,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,7 +730,8 @@
     <MESSAGE value="Pushing to GitHub" />
     <MESSAGE value="added a javadoc comment" />
     <MESSAGE value="added java doc comments to the phonenumber class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added java doc comments to the phonenumber class" />
+    <MESSAGE value="updated the javadoc output along with the output for the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the javadoc output along with the output for the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1120,13 +1083,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadingTag.class" />
-    <entry file="file://$PROJECT_DIR$/src/ItemTag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadingTag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1243,6 +1199,14 @@
             <element signature="e#0#4122#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ItemTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
