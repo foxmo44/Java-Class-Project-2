@@ -28,6 +28,9 @@ public class PhoneList {
 
     }
 
+    /**
+     * @param inputFile
+     */
     public PhoneList(Scanner inputFile)
     {
         //Instantiate the list
