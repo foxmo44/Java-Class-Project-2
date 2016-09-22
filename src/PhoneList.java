@@ -21,6 +21,9 @@ public class PhoneList {
     private ArrayList<PhoneNumber>  theNumbers; //Will hold the various data rows.  lets the number of rows be dynamic
     private boolean                 bHasNumbers = false;
 
+    /**
+     * Default Constructor
+     */
     public PhoneList()
     {
         //Instantiate the list
@@ -29,7 +32,8 @@ public class PhoneList {
     }
 
     /**
-     * @param inputFile
+     * Constructor that will instantiate the number list and then call the function to search the input for the number
+     * @param inputFile is the input file that will be searched for numbers.  Must be text
      */
     public PhoneList(Scanner inputFile)
     {
@@ -40,6 +44,11 @@ public class PhoneList {
 
     }
 
+    /**
+     * Search through the file for all of the phone numbers
+     * @param inputFile  input file to parse
+     * @return  true if a number is found
+     */
     private boolean ParseFile(Scanner inputFile)
     {
         boolean bRetValue = false;
@@ -87,7 +96,9 @@ public class PhoneList {
         return bRetValue;
     }
 
-    //Return the string representing the list
+    /**
+     * @return Return the string representing the list
+     */
     public String toString() {
 
         String strOutput = "";
@@ -101,19 +112,27 @@ public class PhoneList {
         return strOutput;
     }
 
-    //Return if we have phone numbers in the list or not
+
+    /**
+     * @return Return if we have phone numbers in the list or not
+     */
     public boolean HasNumbers()
     {
         return bHasNumbers;
     }
 
-    //return the string for the table
+    /**
+     * @return the string for the table
+     */
     public String toHtmlTableString()
     {
         return GetTable().toString();
     }
 
-    //Return the table for the numbers in the lsit
+
+    /**
+     * @return Return the entire table for the numbers in the list
+     */
     public Table GetTable()
     {
         Table theTable = new Table(25);	//Set the column width and the names of the columns
