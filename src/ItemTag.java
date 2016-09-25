@@ -10,7 +10,9 @@
  */
 public class ItemTag extends Tag{
 
-    //Default constructor
+    /**
+     * Default constructor
+     */
     public ItemTag(){
 
     }
